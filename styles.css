@@ -1,0 +1,38 @@
+.question{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 750px;
+    height: 100px;
+    border-radius: 12px;
+    text-align: center;
+    font-size: 30px;
+
+}
+button{
+    float: inline-start;
+    width: 100px;
+    height: 100px;
+    border-radius: 12px;
+    font-size: 30px;
+    background-color: lawngreen;
+}
+.mid
+{
+    margin-left: 250px;
+    width: 400px;
+   
+}
+form{
+    margin-top: 200px;
+    margin-left: 400px;
+}
+body{
+    background-color: navy;
+}
+h2{
+    margin-left: 330px;
+    font-size: 50px;
+    color: rgb(255, 128, 0);
+    
+}
